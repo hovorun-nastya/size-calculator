@@ -1,0 +1,114 @@
+{
+  "xxxs": {
+    "id": "xxxs",
+    "uk": 4,
+    "eu": 30,
+    "bust": 77,
+    "waist": 56,
+    "hips": 84
+  },
+  "xxs": {
+    "id": "xxs",
+    "uk": 6,
+    "eu": 32,
+    "bust": 81,
+    "waist": 60,
+    "hips": 88
+  },
+  "xs": {
+    "id": "xs",
+    "uk": 8,
+    "eu": 34,
+    "bust": 85,
+    "waist": 64,
+    "hips": 92
+  },
+  "s": {
+    "id": "s",
+    "uk": 10,
+    "eu": 36,
+    "bust": 89,
+    "waist": 68,
+    "hips": 96
+  },
+  "m": {
+    "id": "m",
+    "uk": 12,
+    "eu": 38,
+    "bust": 93,
+    "waist": 72,
+    "hips": 100
+  },
+  "l": {
+    "id": "l",
+    "uk": 14,
+    "eu": 40,
+    "bust": 98,
+    "waist": 76,
+    "hips": 104
+  },
+  "xl": {
+    "id": "xl",
+    "uk": 16,
+    "eu": 42,
+    "bust": 103,
+    "waist": 83,
+    "hips": 110
+  },
+  "2xl": {
+    "id": "2xl",
+    "uk": 18,
+    "eu": 44,
+    "bust": 109,
+    "waist": 90,
+    "hips": 116
+  },
+  "3xl": {
+    "id": "3xl",
+    "uk": 20,
+    "eu": 46,
+    "bust": 116,
+    "waist": 96,
+    "hips": 123
+  },
+  "4xl": {
+    "id": "4xl",
+    "uk": 22,
+    "eu": 48,
+    "bust": 122,
+    "waist": 103,
+    "hips": 129
+  },
+  "5xl": {
+    "id": "5xl",
+    "uk": 24,
+    "eu": 50,
+    "bust": 128,
+    "waist": 110,
+    "hips": 135
+  },
+  "6xl": {
+    "id": "6xl",
+    "uk": 26,
+    "eu": 52,
+    "bust": 134,
+    "waist": 117,
+    "hips": 142
+  },
+  "7xl": {
+    "id": "7xl",
+    "uk": 28,
+    "eu": 54,
+    "bust": 140,
+    "waist": 124,
+    "hips": 148
+  },
+  "8xl": {
+    "id": "8xl",
+    "uk": 30,
+    "eu": 56,
+    "bust": 146,
+    "waist": 131,
+    "hips": 154
+  }
+}
